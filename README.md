@@ -1,11 +1,9 @@
-# Excel Dashboard
-
-## Visualization
-![Dashboard](https://github.com/harjas31/dashboard/blob/main/annual_report.png)
-
 # Clothing Brand Sales Dashboard
 
 This project involves creating an interactive Excel dashboard for a clothing brand, based on raw sales data. The dashboard provides insightful visualizations and is equipped with slicers for enhanced interactivity.
+
+## Visualization
+![Dashboard](https://github.com/harjas31/dashboard/blob/main/annual_report.png)
 
 ## Data Transformation
 
