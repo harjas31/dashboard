@@ -28,7 +28,7 @@ The initial dataset included the following columns:
 - Ship Postal Code
 - Ship Country
 - B2B
-You can download the raw data here. ![Dashboard](https://github.com/harjas31/dashboard/blob/main/raw%20data.csv)
+You can download the raw data [here](https://github.com/harjas31/dashboard/blob/main/raw%20data.csv).
 
 ### Processed Data
 The final dataset used for the dashboard included the following columns:
@@ -53,7 +53,7 @@ The final dataset used for the dashboard included the following columns:
 - Ship Postal Code
 - Ship Country
 - B2B
-You can download the processed data here. ![Processed Data](https://github.com/harjas31/dashboard/blob/main/analyzed_data.xlsx)
+You can download the processed data [here](https://github.com/harjas31/dashboard/blob/main/analyzed_data.xlsx).
 
 ### Data Cleaning and Transformation
 1. **Age Grouping**: The `Age` column was categorized into three groups:
